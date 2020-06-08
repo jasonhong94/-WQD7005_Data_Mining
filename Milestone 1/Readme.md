@@ -1,7 +1,6 @@
-Web Crawling from CoinMarket
+# Web Crawling the real time data set
+A simple method is used to crawl real time data set from https://coinmarketcap.com that data set about the history of price movement in cryptocuurrecy market. 
 
-Methods:
-1) Beatifulsoup library
-	- pip install beatifulsoup 
-
-2) Save the data into csv file
+## Package
+Beatiful Soup package install by commnad as below:
+	- pip install BeautifulSoup
