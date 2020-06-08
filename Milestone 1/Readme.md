@@ -21,7 +21,7 @@ Beautiful Soup is a Python library for pulling data out of HTML and XML files. I
 ## Reference
 https://www.freecodecamp.org/news/how-to-scrape-websites-with-python-and-beautifulsoup-5946935d93fe/
 
-## Code Creater
+## Code Writer
 TAN SIA HONG
 
 TAN CHANG JUNG
