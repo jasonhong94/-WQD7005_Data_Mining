@@ -5,4 +5,4 @@ set about the history of price movement in cryptocuurrecy market.
 ## Package
 Beatiful Soup package install by commnad as below:
 
-	- pip install BeautifulSoup
+	- pip install BeautifulSoup4
