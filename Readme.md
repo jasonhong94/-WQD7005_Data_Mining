@@ -1,5 +1,5 @@
 # WQD7007 Data Mining Assignment
-# Title : Application of Data Mining in Price Movement of Cryptocurrecy
+## Title : Application of Data Mining in Price Movement of Cryptocurrecy
 
 ## Project Member
 1) Tan Chang Jung
