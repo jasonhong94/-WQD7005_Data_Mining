@@ -1,8 +1,16 @@
-# Milestone 2 : Store data set into Hive data warehouse
+# Milestone 2 : Store data into Hive data warehouse
 
 ## Introduction
+In this Milestone is the process of hhow to store our data into Hive data warehouse using Hotonworks software and WinSCP.  
 
 ## Tools
+1. Hortonworks sandbox HDP:  https://www.cloudera.com/downloads/hortonworks-sandbox.html
+2. VM virtualbox: https://www.virtualbox.org/wiki/Downloads
+3. WinSCP: https://winscp.net/eng/download.php
+
+## Getting Start
+Please to document Milestone2.pdf
+
 ## Youtube video
 
 ## Team Member:
