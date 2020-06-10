@@ -1,16 +1,19 @@
 # Milestone 3: Accessing data from Hive data warehouse using python
 
 ## Introduction
-Simple process how to access data from hive data warehouse in hortonworks sandbox.
+Simple process that how to access data from hive data warehouse in hortonworks sandbox.
 
 ## Packegas demand
 Microsoft Hive ODBC Driver: https://www.microsoft.com/en-us/download/details.aspx?id=40886
+
 library of pyodbc : 
 
-  run  -  pip install pyodbc    in terminal
+  run   
+  
+  -  pip install pyodbc    
   
 ## Getting start
-Run  -  python milestone3.py
+Run     -  python milestone3.py
 
 ## Youtube video
 
