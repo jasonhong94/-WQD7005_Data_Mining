@@ -10,7 +10,8 @@ Beatiful Soup package install by commnad as below:
 ## Get Started
 The code written using beatifulsoup package to crawl the dataset of cryptocurrecy and save the outcome dataset to csv file format.
 	
-Run   		- python bs4_scrape.py
+Run   	
+	- python bs4_scrape.py
 	
 ## Why is BeatifulSoup package
 Beautiful Soup is a Python library for pulling data out of HTML and XML files. It works with your favorite parser to provide idiomatic ways of navigating, searching, and modifying the parse tree. It commonly saves programmers hours or days of work.
