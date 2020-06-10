@@ -1,4 +1,5 @@
-# Web Crawling the real time dataset
+# Milestone 1: Web Crawling the real time dataset
+## Introduction
 A simple method is used to crawl real time data set from https://coinmarketcap.com that data
 set about the history of price movement in cryptocuurrecy market. 
 
