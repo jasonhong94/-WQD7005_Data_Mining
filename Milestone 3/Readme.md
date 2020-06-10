@@ -9,12 +9,12 @@ Microsoft Hive ODBC Driver: https://www.microsoft.com/en-us/download/details.asp
 library of pyodbc : 
   run 
   
-          -  pip install pyodbc    
+    pip install pyodbc    
   
 ## Getting start
 Run:    
         
-        -  python milestone3.py
+    python milestone3.py
 
 ## Youtube video
 
