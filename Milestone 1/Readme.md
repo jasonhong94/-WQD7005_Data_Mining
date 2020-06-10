@@ -7,10 +7,10 @@ Beatiful Soup package install by commnad as below:
 
 	- pip install BeautifulSoup4
 
-## Get Started
+## Getting Start
 The code written using beatifulsoup package to crawl the dataset of cryptocurrecy and save the outcome dataset to csv file format.
 	
-Run   
+Run:   
 
 	- python bs4_scrape.py
 	
