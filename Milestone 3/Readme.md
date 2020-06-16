@@ -16,8 +16,8 @@ Run:
         
     python milestone3.py
 
-## Youtube video
-https://drive.google.com/drive/u/1/my-drive
+## Presentation video
+https://drive.google.com/file/d/1nrRGL28ohZ2hKTWcsMtKn1eB0oolC5rX/view?usp=sharing
 
 ## Refence
 https://mapr.com/docs/52/Hive/config_hive_odbc_connector_windows.html
