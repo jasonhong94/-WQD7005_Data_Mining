@@ -14,7 +14,7 @@ Please refer to document
 -  Milestone2.pdf
 
 ##  Presentation video
-https://drive.google.com/file/d/15MPdv8QzOzNxfGG_r1kuvgifPQ67vNMW/view?usp=sharing
+https://drive.google.com/file/d/1eIyMlUDEmtBlDrhAgEJDS9w9r-Lg7CdC/view?usp=sharing
 
 ## Team Member:
 1) Tan Sia Hong
