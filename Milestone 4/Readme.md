@@ -19,8 +19,8 @@ It works by using special gates to allow each LSTM layer to take information fro
 ![1_D9X8_4icjB1HYmW08xmVUA](https://user-images.githubusercontent.com/43994669/84503903-9f6a6c80-aced-11ea-8ba6-2f4ea39c9b8e.png)
 
 
-## Youtube video
-
+## Presentation video
+https://drive.google.com/file/d/1Sgzr6P7xFR34XZUjV4gbWsa0DZtqIGYV/view?usp=sharing
 
 ## Team Member
 Tan Sia Hong
