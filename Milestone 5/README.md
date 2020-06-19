@@ -7,7 +7,7 @@ https://cryptofortwp.herokuapp.com/
 
 
 ## Mobile App development:
-https://drive.google.com/file/d/1vu5wER1D5rhZu8itHXOdMXi49wO-FTzK/view?usp=sharing
+https://drive.google.com/file/d/1QBs9iWpFnkowFS5RHp6Lntxnuzj_va9I/view?usp=sharing
 
 
 ## Presentation video
