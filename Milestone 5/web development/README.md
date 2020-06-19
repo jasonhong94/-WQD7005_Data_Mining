@@ -11,10 +11,6 @@ Dash is Python framework for building web applications. It built on top of Flask
 
 To run this app first clone repository and then open a terminal to the app folder.
 
-```
-git clone https://github.com/plotly/dash-sample-apps.git
-cd dash-sample-apps/apps/dash-web-trader
-```
 
 Create and activate a new virtual environment (recommended) by running
 the following:
