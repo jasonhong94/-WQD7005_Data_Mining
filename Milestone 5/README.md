@@ -19,6 +19,8 @@ https://drive.google.com/file/d/1T4pNDXtSTxmCzH1RQ-O1PjtwMtuMFcDH/view?usp=shari
 
 ![image](https://user-images.githubusercontent.com/43994669/85023006-b81fca00-b1a6-11ea-8738-1422ba7b75c9.png)
 
+![image](https://user-images.githubusercontent.com/43994669/85137123-48c3dc00-b273-11ea-86ca-0e4b94b9d07e.png)
+
 
 ## Team member:
 1. Tan Sia Hong
