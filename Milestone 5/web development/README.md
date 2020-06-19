@@ -1,4 +1,4 @@
-# Dash framework example
+# Dash example
 This is a demo of the Dash interactive Python framework developed by [Plotly](https://plot.ly/).
 
 # Dash Framework
