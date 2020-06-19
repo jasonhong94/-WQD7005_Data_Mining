@@ -4,12 +4,11 @@
 
 ## Web site development:
 
-https://cryptofortwp.herokuapp.com/
+ run the app on your browser at https://cryptofortwp.herokuapp.com/
 
 
 ## Mobile App development:
-Mobile App Apk download  
-https://drive.google.com/file/d/1QBs9iWpFnkowFS5RHp6Lntxnuzj_va9I/view?usp=sharing
+Mobile App Apk download on https://drive.google.com/file/d/1QBs9iWpFnkowFS5RHp6Lntxnuzj_va9I/view?usp=sharing
 
 
 ## Presentation video
