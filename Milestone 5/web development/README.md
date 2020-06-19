@@ -1,9 +1,9 @@
-# Dash Web Trader
+# Dash framework example
 This is a demo of the Dash interactive Python framework developed by [Plotly](https://plot.ly/).
-                            
-This app continually queries csv files and updates Ask and Bid prices for major currency 
-pairs as well as Stock Charts. You can also virtually buy and sell stocks and see the 
-profit updates.
+
+# Dash Framework
+Dash is Python framework for building web applications. It built on top of Flask, Plotly.js, React and React Js. It enables you to build dashboards using pure Python. Dash is open source, and its apps run on the web browser. In this tutorial, we introduce the reader to Dash fundamentals and assume that they have prior experience with Plotly.
+
 
 ## How to run this app
 
@@ -44,10 +44,6 @@ Run the app:
 python app.py
 ```
 You can run the app on your browser at http://127.0.0.1:8050
-
-## Screenshots
-
-![demo.png](demo.png)
 
 ## Resources
 
