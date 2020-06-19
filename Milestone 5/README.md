@@ -11,7 +11,7 @@ https://drive.google.com/file/d/1vu5wER1D5rhZu8itHXOdMXi49wO-FTzK/view?usp=shari
 
 
 ## Presentation video
-https://drive.google.com/file/d/1Sgzr6P7xFR34XZUjV4gbWsa0DZtqIGYV/view?usp=sharing
+https://drive.google.com/file/d/1T4pNDXtSTxmCzH1RQ-O1PjtwMtuMFcDH/view?usp=sharing
 
 
 ## Screenshots
