@@ -20,7 +20,13 @@ https://drive.google.com/file/d/1T4pNDXtSTxmCzH1RQ-O1PjtwMtuMFcDH/view?usp=shari
 
 ![image](https://user-images.githubusercontent.com/43994669/85023006-b81fca00-b1a6-11ea-8738-1422ba7b75c9.png)
 
-
+## Task achieved
+ - Closing Price visualisation
+ - Predict the closing price on latest date
+ - History data table
+ - style of graph presentation
+ - period of data show in graph
+ - Option of cryptocurrency data
 
 
 ## Team member:
