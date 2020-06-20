@@ -16,6 +16,9 @@ Run:
         
     python milestone3.py
 
+Explanation can refer to Milestone3.pdf
+
+
 ## Presentation video
 https://drive.google.com/file/d/1EUVRFSHwd0egocPyoQ-UGSjmL0ximhFU/view?usp=sharing
 
