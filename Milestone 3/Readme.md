@@ -16,7 +16,7 @@ Run:
         
     python milestone3.py
 
-Explanation can refer to Milestone3.pdf
+Documentation refer to https://github.com/jasonhong94/-WQD7005_Data_Mining/blob/master/Milestone%203/Milestone3.pdf
 
 
 ## Presentation video
