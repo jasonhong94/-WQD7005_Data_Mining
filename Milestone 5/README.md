@@ -27,5 +27,4 @@ https://drive.google.com/file/d/1T4pNDXtSTxmCzH1RQ-O1PjtwMtuMFcDH/view?usp=shari
 1. Tan Sia Hong
 
 2. Tan Chang Jung
-
 https://github.com/changjung1995/WQD7005_Data_Mining/tree/master/Milestone_Five
