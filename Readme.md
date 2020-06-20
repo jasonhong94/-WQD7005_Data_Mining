@@ -2,7 +2,7 @@
 ## Title : Application of Data Mining in Price Movement of Cryptocurrecy
 
 ## Process of the project
-### Milestone 1 : Data wcrap from web
+### Milestone 1 : Data crawling from web
 
 https://github.com/jasonhong94/-WQD7005_Data_Mining/tree/master/Milestone%201
 
