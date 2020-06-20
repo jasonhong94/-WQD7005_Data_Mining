@@ -10,6 +10,8 @@
 ## Mobile App development:
 Mobile App Apk download on https://drive.google.com/file/d/1QBs9iWpFnkowFS5RHp6Lntxnuzj_va9I/view?usp=sharing
 
+## Documentation:
+https://github.com/changjung1995/WQD7005_Data_Mining/blob/master/Milestone_Five/Milestone5_Tan_Chang_Jung.pdf
 
 ## Presentation video
 https://drive.google.com/file/d/1T4pNDXtSTxmCzH1RQ-O1PjtwMtuMFcDH/view?usp=sharing
