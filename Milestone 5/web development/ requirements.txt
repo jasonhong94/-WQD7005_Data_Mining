@@ -2,7 +2,7 @@ dash==1.0.0
 plotly==3.10.0
 gunicorn==19.9.0
 pandas==0.24.2
-requests==2.22.0
+requests==2.31.0
 tensorflow==2.0.0a0
 dash-auth==1.0.2
 scikit-learn==0.21.3
